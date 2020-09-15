@@ -1,4 +1,4 @@
-# BootstrapPortfolioHW2
+# Bootstrap Portfolio 
 * Week two basic reactive bootstrap portfolio
 
 ## Description
