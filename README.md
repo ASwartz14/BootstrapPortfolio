@@ -31,3 +31,6 @@ to match the pictures provided in the assets. Made my own css to override bootst
 
 * [Deployed Bootstrap Portfolio website]( https://aswartz14.github.io/BootstrapPortfolioHW2/)
 
+## HTML Validation 
+[Link from W3 Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Faswartz14.github.io%2FBootstrapPortfolioHW2%2F)
+
