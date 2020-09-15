@@ -3,6 +3,8 @@
 
 ## Description
 Used bootstrap for to match the pictures provided in the assets. Made my own css to override bootstraps color and font preferences. Did not include a reset css as bootstrap has their own. Elements below were used from bootstrap.
+social media links ommited from the homework as Instructor explicitly said to match asset pics as close as possible and they didn't portray any links. 
+
 * navbar
 * sticky footer
 * container/row classes 
