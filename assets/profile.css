@@ -1,43 +1,53 @@
-/* sets the background img for all html files */
+* {
+    box-sizing: border-box;
+}
 body {
-    background-image:url("greybackground.jpg") ;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.background-img::before {
+    content: "";
     background-repeat: no-repeat;
     background-size: cover;
-   
-}
+    background-image:url("jack-oldham-mountain-galaxy-background-1.jpg");
+    opacity: .8;
+    position: absolute;
+    top: 0px;
+    right:0px;
+    bottom: 0px;
+    left: 0px;
+    display: flex;
+}  
+
 /* sets the navbar-brand color and font and margin for all html files*/
 .navbar-brand {
     padding: 10px;
-    background-color: #4baaa4;
+    background-color: #c38ae4;
     font-weight: bold;
     font-size: large;
     color: white;
   }
 
-  .navbar-light .navbar-brand {
-      color: white;
-      font-family: 'Times New Roman', Times, serif;
-  }
+  */
  /* sets the h1 color and font for all html files*/
   h1 {
-    color: #4baaa4;
-    font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
   }
 /* sets background color and margin for all html files */
   article {
-      background-color: white;
+      
       margin-top: 5%;
   }
 
   form {
-    background-color: white;
+    
     margin-top: 5%;
     margin-left: 2%;
 }
   
 .col-md-8 {
-    background-color: white;
+    
     margin-top: 5%;
 }
 
@@ -51,11 +61,11 @@ main {
 /* sets the sticky footer for all html files */
 footer {
     color: #777;
-    background-color: #666;
+    background-color:#2c3438;
     padding: 10px;
     text-align: center;
     border-top-style: solid;
-    border-top-color: #4baaa4;
+    border-top-color: #c38ae4;
     border-top-width: 5px;
     position: fixed;
     left: 0;
