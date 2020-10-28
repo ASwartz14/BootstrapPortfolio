@@ -5,6 +5,9 @@ body {
     color: white;
     font-family: 'Fjalla One', sans-serif;
 }
+a {
+    color: rgb(168, 8, 75);
+}
 
 .background-img::before {
     content: "";
