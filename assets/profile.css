@@ -15,7 +15,7 @@ a {
     background-size: cover;
     background-image:url("jack-oldham-mountain-galaxy-background-1.jpg");
     opacity: .8;
-    position: absolute;
+    position: fixed;
     top: 0px;
     right:0px;
     bottom: 0px;
