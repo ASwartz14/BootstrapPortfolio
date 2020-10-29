@@ -8,7 +8,6 @@ body {
 a {
     color: rgb(168, 8, 75);
 }
-
 .background-img::before {
     content: "";
     background-repeat: no-repeat;
@@ -20,8 +19,8 @@ a {
     right:0px;
     bottom: 0px;
     left: 0px;
-    display: flex;
-}  
+    display: flexbox;
+} 
 
 /* sets the navbar-brand color and font and margin for all html files*/
 .navbar-brand {
