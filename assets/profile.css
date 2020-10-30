@@ -6,8 +6,8 @@ body {
     font-family: 'Fjalla One', sans-serif;
 }
 a {
-    color: rgb(168, 8, 75);
-}
+    color:#d8b2ee;
+} 
 .background-img::before {
     content: "";
     background-repeat: no-repeat;
@@ -25,12 +25,11 @@ a {
 /* sets the navbar-brand color and font and margin for all html files*/
 .navbar-brand {
     padding: 10px;
-    background-color: #c38ae4;
+    background-color: #d8b2ee;
     font-weight: bold;
     font-size: large;
-    color: white;
+    color: rgb(177, 173, 173);
   }
-
 
   article {
       
